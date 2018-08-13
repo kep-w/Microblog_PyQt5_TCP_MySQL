@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project tool_icon -->
+<!-- Saved: 2018-06-14, 08:59:02 -->
+<!-- Copyright (C) 2018 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>28051147de92a2a6a4040b49e1337edf4d5b80df</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>PyQt5</ProjectType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Sources>
+    <Source>Ui_details.py</Source>
+    <Source>Ui_home_page.py</Source>
+    <Source>Ui_login_tip.py</Source>
+    <Source>Ui_me.py</Source>
+    <Source>Ui_me_changeinfo.py</Source>
+    <Source>Ui_me_changepwd.py</Source>
+    <Source>Ui_search_yang.py</Source>
+    <Source>Ui_send_blog.py</Source>
+    <Source>Ui_send_comment.py</Source>
+    <Source>Ui_signin_signup.py</Source>
+    <Source>Ui_signup.py</Source>
+    <Source>__init__.py</Source>
+    <Source>imgs/__init__.py</Source>
+  </Sources>
+  <Forms>
+    <Form>home.ui</Form>
+    <Form>me.ui</Form>
+    <Form>message.ui</Form>
+    <Form>search.ui</Form>
+  </Forms>
+  <Translations/>
+  <Resources/>
+  <Interfaces/>
+  <Others/>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+  </FiletypeAssociations>
+</Project>

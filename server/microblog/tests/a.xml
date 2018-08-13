@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<microblog>
+	<header>
+		<interfaceVersion>
+		</interfaceVersion>
+		<transTimeSource></transTimeSource>
+		<transTimeDestination></transTimeDestination>
+		<transType>1001</transType>
+		<source></source>
+		<destination></destination>
+	</header>
+	<body>
+	  	<LoginReq>
+			<username>
+				zhangsan
+			</username>
+			<passwd>
+				123456
+			</passwd>
+			<mac>
+			</mac>
+		</LoginReq>
+	</body>
+</microblog>
+
+<?xml version="1.0" ?>
+<famliy>
+	<son name="儿1">
+		<grandson name="儿11"/>
+		<grandson name="儿12"/>
+	</son>
+	<son name="儿1">
+		<grandson name="儿11"/>
+		<grandson name="儿12"/>
+	</son>
+</famliy>
+

@@ -1,0 +1,14 @@
+# 定义测试用全局变量
+username = '翱翔的格格巫'
+userid = '123'
+introduction = '既然选择了远方,便只顾风雨兼程! 乘风破浪会有时,直挂云帆济沧海!'
+gender = '女'
+brithday = '1991-01-24'
+stime = '2018-05-20'
+blog = '1024'
+good = '256'
+mail = 'kepner@123.com'
+phoneno = '13688888888'
+
+userinfo = [username, userid, introduction,
+            gender, brithday, stime, blog, good, phoneno, mail]

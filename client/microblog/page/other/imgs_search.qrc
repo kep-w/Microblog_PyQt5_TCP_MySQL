@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="search">
+    <file>imgs/black.png</file>
+    <file>imgs/black_house.png</file>
+    <file>imgs/black_information.png</file>
+    <file>imgs/black_search.png</file>
+    <file>imgs/plus_sign.jpg</file>
+    <file>imgs/white.png</file>
+    <file>imgs/white_house.png</file>
+    <file>imgs/white_information.png</file>
+    <file>imgs/white_search.png</file>
+  </qresource>
+</RCC>
